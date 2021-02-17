@@ -1,0 +1,24 @@
+if(b instance of CurrentAccount)
+	return b.getBalance();
+
+return ((SavingsAccount)b).getNetBalance();
+
+reminder: study for octal
+
+lab 5: arraylist--bookstore application
+https://www.javatpoint.com/java-arraylist
+https://www.geeksforgeeks.org/arraylist-in-java/
+
+lab 6: encapsulation, method overloading--employee management system
+https://www.w3schools.com/java/java_encapsulation.asp
+https://www.javatpoint.com/method-overloading-in-java
+
+lab 7: Inheritance, encapsulation, method override, method overload, subclass polymorphism, abstract class--banking system
+https://www.geeksforgeeks.org/overriding-in-java/
+https://www.programiz.com/java-programming/inheritance
+https://www.geeksforgeeks.org/inheritance-in-java/
+https://beginnersbook.com/2013/03/polymorphism-in-java/
+
+
+
+

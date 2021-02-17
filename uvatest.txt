@@ -1,0 +1,22 @@
+10 7 5 4
+60 30
+150 125
+55 35
+70 40
+42 38
+2
+10
+19
+23
+**************
+//checking utput
+     printf("%d %d %d %d\n",R,r,N,C);
+
+     for(i=0;i<N;i++)
+     {
+         printf("%d %d\n",s[i],g[i]);
+     }
+     for(i=0;i<C;i++)
+     {
+         printf("%d\n",t[i]);
+     }

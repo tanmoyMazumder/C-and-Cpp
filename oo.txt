@@ -1,0 +1,3 @@
+take counts in 26 sized array while taking input of the string
+take inputs of what to be replaced with what
+ 
