@@ -6,7 +6,7 @@ int main()
 {
     int n, level=0, count=0;
     cin>>n;
-    char arr[n], input;
+    char  input;
     stack<char>s;
     for(int i=0; i<n; i++)
     {
